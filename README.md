@@ -20,11 +20,16 @@ Stay updated with the latest AI research tools and methodologies. Want to featur
 
 ## Editor's Choice
 
-- [GAIA](https://arxiv.org/abs/2310.00000) - General AI Assistant for research and experimentation, featuring adaptive learning and goal-driven methodologies.
-- [Manus](https://arxiv.org/abs/2311.00000) - Autonomous agent for deep research with multi-modal capabilities and real-world reasoning.
-- [HELM](https://crfm.stanford.edu/helm/latest/) - Holistic Evaluation of Language Models (Stanford).
-- [BIG-bench](https://github.com/google/BIG-bench) - A suite of challenging tasks for measuring model performance.
-- [AGIEval](https://github.com/microsoft/AGIEval) - A human-centric benchmark for evaluating general AI capabilities.
+- [GAIA: A Benchmark for General AI Assistants](https://arxiv.org/abs/2311.12983) – Introduces GAIA, a benchmark proposing real-world questions that require fundamental abilities such as reasoning, multi-modality handling, web browsing, and tool-use proficiency.
+
+- [Manus: China's Autonomous AI Agent](https://www.forbes.com/sites/craigsmith/2025/03/08/chinas-autonomous-agent-manus-changes-everything/) – An overview of Manus, an autonomous AI agent developed by the Chinese startup Monica, capable of independently carrying out complex real-world tasks without direct or continuous human guidance.
+
+- [HELM: Holistic Evaluation of Language Models](https://arxiv.org/abs/2211.09110) – A comprehensive framework developed by Stanford for evaluating language models across various dimensions, including accuracy, robustness, and fairness.
+
+- [BIG-bench: A Benchmark for Language Models](https://github.com/google/BIG-bench) – A collaborative benchmark initiative by Google, comprising a suite of challenging tasks designed to measure the performance of language models.
+
+- [AGIEval: A Human-Centric Benchmark for Evaluating General AI Capabilities]([https://github.com/microsoft/AGIEval](https://arxiv.org/abs/2304.06364)) – A benchmark developed by Microsoft to evaluate general AI capabilities with a focus on human-centric tasks.
+
 
 ## AI Research Agents
 
