@@ -68,5 +68,5 @@ We welcome contributions! If you know of a tool, dataset, or research agent that
 
 ### License
 
-[MIT](LICENSE)
+[Apache License 2.0](LICENSE)
 
