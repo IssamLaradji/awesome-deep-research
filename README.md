@@ -6,6 +6,8 @@
 
 Welcome to **Awesome Deep Research Agents & Benchmarks**! This list includes the current research agents, benchmarks, and evaluation frameworks designed to push the boundaries of artificial intelligence. If you're developing a research agent or benchmarking framework, feel free to contribute.
 
+So What is Deep Research? It’s the ability of an agent to take a prompt, search through hundreds of online sources, analyze the information, and compile a detailed report, just like an expert research analyst would.
+
 Stay updated with the latest AI research tools and methodologies. Want to feature your project? Submit a PR!
 
 ## Contents
