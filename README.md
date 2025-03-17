@@ -13,7 +13,7 @@ Stay updated with the latest AI research tools and methodologies that fall under
 ## Contents
 
 - [🌟 Editor's Choice](#editors-choice)
-- [🤖 AI Research Agents](#ai-research-agents)
+- [🤖 Deep Research Agents](#deep-research-agents)
 - [📊 Benchmarks & Evaluation](#benchmarks-evaluation)
 - [🔍 Datasets](#datasets)
 - [📝 Papers & Learning Resources](#papers-learning-resources)
@@ -21,22 +21,25 @@ Stay updated with the latest AI research tools and methodologies that fall under
 
 ## Deep Research Agents
 
-### Autonomous Deep Research Agents
+### General Deep Research Agents
 - [OpenManus](https://github.com/mannaandpoem/OpenManus) which "can achieve any idea without an Invite Code".
 - [OpenManus-RL](https://github.com/OpenManus/OpenManus-RL)  an open-source project dedicated to reinforcement learning (RL)- based (such as GRPO) tuning methods for LLM agents, developed collaboratively by researchers from UIUC and OpenManus.
 - [Manus: China's Autonomous AI Agent](https://www.forbes.com/sites/craigsmith/2025/03/08/chinas-autonomous-agent-manus-changes-everything/) – An overview of Manus, an autonomous AI agent developed by the Chinese startup Monica, capable of independently carrying out complex real-world tasks without direct or continuous human guidance.
+- [Open Operator](https://github.com/browserbase/open-operator) is a free, open-source alternative for AI-driven browser automation.
+
+### Almost Deep Research Agents
 - [AutoGPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source application showcasing GPT-4 running fully autonomously.
 - [BabyAGI](https://github.com/yoheinakajima/babyagi) - A simple task management system powered by GPT-based agents.
-- [CAMEL](https://github.com/lightaime/camel) - Cooperative AI agents working on research-driven tasks.
-- [MetaGPT](https://github.com/geekan/MetaGPT) - Multi-agent framework for collaborative AI research.
 
 ### Specialized AI Research Assistants
 
 - [Elicit](https://elicit.org/) - AI-powered literature review and research automation.
 - [PaperQA](https://github.com/Future-House/paper-qa) - AI-driven paper-based Q&A system for research.
 - [ResearchRabbit](https://www.researchrabbit.ai/) - AI tool for discovering and tracking academic papers.
+- [CAMEL](https://github.com/lightaime/camel) - Cooperative AI agents working on research-driven tasks.
+- [MetaGPT](https://github.com/geekan/MetaGPT) - Multi-agent framework for collaborative AI research.
 
-## Deep Research Benchmarks
+## Almost Deep Research Benchmarks
 
 - [GAIA: A Benchmark for General AI Assistants](https://arxiv.org/abs/2311.12983) – Introduces GAIA, a benchmark proposing real-world questions that require fundamental abilities such as reasoning, multi-modality handling, web browsing, and tool-use proficiency.
 
