@@ -22,6 +22,8 @@ Stay updated with the latest AI research tools and methodologies that fall under
 ## Deep Research Agents
 
 ### Autonomous Deep Research Agents
+- [OpenManus](https://github.com/mannaandpoem/OpenManus) which "can achieve any idea without an Invite Code".
+- [OpenManus-RL](https://github.com/OpenManus/OpenManus-RL)  an open-source project dedicated to reinforcement learning (RL)- based (such as GRPO) tuning methods for LLM agents, developed collaboratively by researchers from UIUC and OpenManus.
 - [Manus: China's Autonomous AI Agent](https://www.forbes.com/sites/craigsmith/2025/03/08/chinas-autonomous-agent-manus-changes-everything/) – An overview of Manus, an autonomous AI agent developed by the Chinese startup Monica, capable of independently carrying out complex real-world tasks without direct or continuous human guidance.
 - [AutoGPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source application showcasing GPT-4 running fully autonomously.
 - [BabyAGI](https://github.com/yoheinakajima/babyagi) - A simple task management system powered by GPT-based agents.
