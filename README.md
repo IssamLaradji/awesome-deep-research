@@ -12,12 +12,8 @@ Stay updated with the latest AI research tools and methodologies that fall under
 
 ## Contents
 
-- [🌟 Editor's Choice](#editors-choice)
 - [🤖 Deep Research Agents](#deep-research-agents)
-- [📊 Benchmarks & Evaluation](#benchmarks-evaluation)
-- [🔍 Datasets](#datasets)
-- [📝 Papers & Learning Resources](#papers-learning-resources)
-
+- [📊 Benchmarks & Evaluation](#deep-research-benchmarks)
 
 ## Deep Research Agents
 
@@ -39,7 +35,8 @@ Stay updated with the latest AI research tools and methodologies that fall under
 - [CAMEL](https://github.com/lightaime/camel) - Cooperative AI agents working on research-driven tasks.
 - [MetaGPT](https://github.com/geekan/MetaGPT) - Multi-agent framework for collaborative AI research.
 
-## Almost Deep Research Benchmarks
+## Deep Research Benchmarks
+### Almost Deep Research Benchmarks
 
 - [GAIA: A Benchmark for General AI Assistants](https://arxiv.org/abs/2311.12983) – Introduces GAIA, a benchmark proposing real-world questions that require fundamental abilities such as reasoning, multi-modality handling, web browsing, and tool-use proficiency.
 
