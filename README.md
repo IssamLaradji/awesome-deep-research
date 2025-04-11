@@ -18,6 +18,8 @@ Stay updated with the latest AI research tools and methodologies that fall under
 ## Deep Research Agents
 
 ### General Deep Research Agents
+- BrowseComp
+- DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments
 - [OpenManus](https://github.com/mannaandpoem/OpenManus) which "can achieve any idea without an Invite Code".
 - [OpenManus-RL](https://github.com/OpenManus/OpenManus-RL)  an open-source project dedicated to reinforcement learning (RL)- based (such as GRPO) tuning methods for LLM agents, developed collaboratively by researchers from UIUC and OpenManus.
 - [Manus: China's Autonomous AI Agent](https://www.forbes.com/sites/craigsmith/2025/03/08/chinas-autonomous-agent-manus-changes-everything/) – An overview of Manus, an autonomous AI agent developed by the Chinese startup Monica, capable of independently carrying out complex real-world tasks without direct or continuous human guidance.
