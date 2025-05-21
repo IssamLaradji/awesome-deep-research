@@ -38,6 +38,8 @@ Stay updated with the latest AI research tools and methodologies that fall under
 - [MetaGPT](https://github.com/geekan/MetaGPT) - Multi-agent framework for collaborative AI research.
 
 ## Deep Research Benchmarks
+- [DeepConsult: A Deep Research Benchmark for Consulting / Business Queries](https://github.com/Su-Sea/ydc-deep-research-evals)
+  
 ### Almost Deep Research Benchmarks
 
 - [GAIA: A Benchmark for General AI Assistants](https://arxiv.org/abs/2311.12983) – Introduces GAIA, a benchmark proposing real-world questions that require fundamental abilities such as reasoning, multi-modality handling, web browsing, and tool-use proficiency.
